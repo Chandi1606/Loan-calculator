@@ -23,7 +23,8 @@ A responsive Loan Calculator web app built with **HTML**, **CSS**, and **JavaScr
 ## 🛠️ Technologies Used
 
 - **HTML** – Markup structure  
-- **CSS** – Styling and layout  
+- **CSS** – Styling and layout
+- **Bootstrap** framework
 - **JavaScript** – Logic for calculation and interactivity
 
 ---
